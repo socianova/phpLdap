@@ -19,7 +19,7 @@ class ConnectLdap {
 
     private $ldaphost;  // ip ou domaine
     private $ldapport;  // port du serveur 
-    private $racine;    // racine du serveur par ex : "dc=carrosse, dc=local"
+    private $racine;    // racine du serveur par ex : "dc=microsoft, dc=com"
     private $userAdmin; // l'utilisateur de connexion
     private $filter;    // filtre de recherche
     private $mdp;       // mot de passe
