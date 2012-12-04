@@ -41,7 +41,7 @@ include_once 'ConnectLdap.php';
         if ($test->verifUser('user1', 'user1') == true) {
 ?>
             <div>
-                <H1>Bienvenue, <BR> Vous etes un utilisapreambule liscence mitteur du domaine</H1>
+                <H1>Bienvenue, <BR> Vous etes un utilisateur du domaine</H1>
             </div>
 <?php
         } else {
