@@ -8,7 +8,7 @@
  */
 
  /*
- * @copyright  GPL License 2012 - Mehboub Sophien - sociaNova (http://www.socianova.com)
+ * @copyright  GPL License 2012 - Mehboub Sophien - Badreddine zeghiche - sociaNova (http://www.socianova.com)
  * @license    http://www.gnu.org/licenses/gpl-3.0.fr.html  GPL License
  * @version 1.0
  */
